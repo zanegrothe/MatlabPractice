@@ -29,7 +29,7 @@ end
 in = 51.641;  % Inclination (deg) [i]  (0 <= in <= 360)
 O = 113.352;  % Right Ascention of the Ascending Node (RAAN) (deg) [OMEGA]  (0 <= in <= 360)
 w = 325.6402;  % Argument of periapsis (deg) [omega]  (0 <= in <= 360)
-nu = ;  % True anomaly (deg) [nu]  (0 <= in <= 360)
+nu = 0;  % True anomaly (deg) [nu]  (0 <= in <= 360)
 
 mu = 398600;  % Gravitational mass parameter for Earth (km^3/s^2) [mu]
 
